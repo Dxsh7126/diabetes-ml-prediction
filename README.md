@@ -43,6 +43,10 @@ This project demonstrates a beginner-level machine learning workflow using **Sim
 
 ## ▶ How to Run
 
+Install the given requirements using 
+
+pip install -r requirements.txt
+
 1. Clone the repository:
 
 git clone https://github.com/Dxsh7126/diabetes-ml-prediction.git
